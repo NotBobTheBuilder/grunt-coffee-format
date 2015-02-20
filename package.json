@@ -1,7 +1,7 @@
 {
   "name": "grunt-coffee-format",
   "description": "Grunt task for coffee-fmt, a coffeescript formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/NotBobTheBuilder/grunt-coffee-format",
   "author": {
     "name": "Jack Wearden",

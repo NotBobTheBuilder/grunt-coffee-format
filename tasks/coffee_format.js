@@ -18,7 +18,7 @@ module.exports = function(grunt) {
   grunt.registerMultiTask('coffee_format', 'Grunt task for coffee-fmt, a coffeescript formatter', function() {
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({
-      tab: ' ',
+      tab: '  ',
       newLine: '\n'
     });
 
