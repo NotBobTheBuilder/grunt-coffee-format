@@ -41,6 +41,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "coffee-fmt": "^0.4.1"
+    "coffee-fmt": "^0.10.2"
   }
 }
